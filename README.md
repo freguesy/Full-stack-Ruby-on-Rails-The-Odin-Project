@@ -1,3 +1,7 @@
+Português | English
+
+## Português
+
 # Curso Full Stack Ruby on Rails - The Odin Project
 
 Este diretório contém todos os materiais e projetos relacionados ao curso Full Stack Ruby on Rails oferecido pelo The Odin Project. Você pode acessar o curso no seguinte link: [www.theodinproject.com].
@@ -20,6 +24,8 @@ O curso abrange uma variedade de tópicos essenciais para se tornar um desenvolv
 Cada seção do curso inclui vários projetos práticos para aplicar o que foi aprendido. Esses projetos são uma parte essencial do curso, pois fornecem experiência prática com as ferramentas e técnicas ensinadas.
 
 ---
+
+## English
 
 # Full Stack Ruby on Rails Course - The Odin Project
 
