@@ -1,6 +1,6 @@
 Português | English
 
-## Português
+## Português ## English
 
 # Curso Full Stack Ruby on Rails - The Odin Project
 
@@ -25,7 +25,6 @@ Cada seção do curso inclui vários projetos práticos para aplicar o que foi a
 
 ---
 
-## English
 
 # Full Stack Ruby on Rails Course - The Odin Project
 
