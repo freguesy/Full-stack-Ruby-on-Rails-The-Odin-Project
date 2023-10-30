@@ -1,6 +1,6 @@
 # Curso Full Stack Ruby on Rails - The Odin Project
 
-Este diretório contém todos os materiais e projetos relacionados ao curso Full Stack Ruby on Rails oferecido pelo The Odin Project. Você pode acessar o curso no seguinte link: [The Odin Project].
+Este diretório contém todos os materiais e projetos relacionados ao curso Full Stack Ruby on Rails oferecido pelo The Odin Project. Você pode acessar o curso no seguinte link: [www.theodinproject.com].
 
 ## Conteúdo do Curso
 
@@ -23,7 +23,7 @@ Cada seção do curso inclui vários projetos práticos para aplicar o que foi a
 
 # Full Stack Ruby on Rails Course - The Odin Project
 
-This directory contains all materials and projects related to the Full Stack Ruby on Rails course offered by The Odin Project. You can access the course at the following link: [The Odin Project].
+This directory contains all materials and projects related to the Full Stack Ruby on Rails course offered by The Odin Project. You can access the course at the following link: [www.theodinproject.com].
 
 ## Course Content
 
